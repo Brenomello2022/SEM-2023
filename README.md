@@ -49,3 +49,43 @@ Veja a seguir, imagens do circuito.
 </div>
 
 ------------------------------------------------------
+
+<h1>3d Visual<h1>
+
+<p>3d Visual do circuito de retificador de onda com ponte de diodo, parte superior<p>
+
+<div align=center>
+<img height="200em" src="./img/3d-visual-front-ponte.png">
+</div>
+
+------------------------------------------------------
+
+<h1>3d Visual<h1>
+
+<p>3d Visual do circuito de retificador de onda com ponte de diodo, parte inferior<p>
+
+<div align=center>
+<img height="200em" src="./img/3d-visual-back-ponte.png">
+</div>
+
+------------------------------------------------------
+
+<h1>3d Visual<h1>
+
+<p>3d Visual do circuito de retificador de onda com diodo manual, parte superior<p>
+
+<div align=center>
+<img height="200em" src="./img/3d-visual-front.png">
+</div>
+
+------------------------------------------------------
+
+<h1>3d Visual<h1>
+
+<p>3d Visual do circuito de retificador de onda com diodo manual, parte inferior<p>
+
+<div align=center>
+<img height="200em" src="./img/3d-visual-back.png">
+</div>
+
+------------------------------------------------------
