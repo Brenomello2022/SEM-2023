@@ -29,3 +29,23 @@ Veja a seguir, imagens do circuito.
 </div>
 
 ------------------------------------------------------
+
+<h1>Pcb Layout<h1>
+
+<p>Pcb layout do circuito de retificador de onda com ponte de diodo<p>
+
+<div align=center>
+<img height="200em" src="./img/esquematico-proteus-ponte.png">
+</div>
+
+------------------------------------------------------
+
+<h1>Pcb Layout<h1>
+
+<p>Pcb layout do circuito de retificador de onda com diodo manual<p>
+
+<div align=center>
+<img height="200em" src="./img/esquematico-proteus.png">
+</div>
+
+------------------------------------------------------
