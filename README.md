@@ -8,10 +8,24 @@ Nesse projeto, foi elaborado um circuito em um programa de simulação, um retif
 
 Veja a seguir, imagens do circuito.
 
+------------------------------------------------------
+
 <h1>Schematic Capture<h1>
 
-<p>Esquematico do circuito de retificador de onda<p>
+<p>Esquematico do circuito de retificador de onda com ponte de diodo<p>
+
+<div align=center>
+<img height="200em" src="./img/esquematico-proteus-ponte.png">
+</div>
+
+------------------------------------------------------
+
+<h1>Schematic Capture<h1>
+
+<p>Esquematico do circuito de retificador de onda com diodo manual<p>
 
 <div align=center>
 <img height="200em" src="./img/esquematico-proteus.png">
 </div>
+
+------------------------------------------------------
