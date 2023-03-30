@@ -89,3 +89,38 @@ Veja a seguir, imagens do circuito.
 </div>
 
 ------------------------------------------------------
+
+<h1>Schematic Capture Tinkercad<h1>
+
+<p>3d Visual do circuito de retificador de onda com diodo manual<p>
+
+<div align=center>
+<img height="200em" src="./img/esquematico-tinkercad.png">
+</div>
+
+------------------------------------------------------
+
+Para este projeto foi utilizado dois programas bem uteis para montar circuitos,
+e modelagem em 3D, trata-se do Proteus e Tinkercad
+
+------------------------------------------------------
+
+<h1>Proteus<h1>
+
+<div align=center>
+<img height="200em" src="./img/proteus.png">
+</div>
+
+------------------------------------------------------
+
+<h1>Tinkercad<h1>
+
+<div align=center>
+<img height="200em" src="./img/tinkercad.png">
+</div>
+
+------------------------------------------------------
+
+Agradeço a sua leitura! tenha um otimo dia :D
+
+------------------------------------------------------
