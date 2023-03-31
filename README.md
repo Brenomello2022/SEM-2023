@@ -100,6 +100,12 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
+<h1>Funcionamento de um Retificador<h1>
+
+<p>O retificador de onda completa converte ambas as metades de cada ciclo de forma de onda em sinal DC pulsante usando quatro diodos de retificação<p>
+
+------------------------------------------------------
+
 Para este projeto foi utilizado dois programas bem uteis para montar circuitos,
 e modelagem em 3D, trata-se do Proteus e Tinkercad
 
@@ -128,6 +134,6 @@ uma maquete de uma máquina, entre outros<p>
 
 ------------------------------------------------------
 
-Agradeço a sua leitura! tenha um otimo dia :D
+Thank you so much for reading, have a nice day! :D
 
 ------------------------------------------------------
