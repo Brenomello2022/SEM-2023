@@ -16,19 +16,6 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Schematic Capture PDF<h1>
-
-<p>Esquematico do circuito de modulação de largura de pulsos, feito no proteus<p>
-
-<div align=center>
-<iframe width="100%" height="800" src="/arduinoPwmController/schematics/pwm-controller-schematic">
-</div>
-
-------------------------------------------------------
-
-
-------------------------------------------------------
-
 <h1>Código Fonte<h1>
 
 ```javascript
