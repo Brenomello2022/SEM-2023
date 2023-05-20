@@ -21,7 +21,8 @@ Veja a seguir, imagens do circuito.
 <p>Esquematico do circuito de modulação de largura de pulsos, feito no proteus<p>
 
 <div align=center>
-<embed src="/arduinoPwmController/schematics/pwm-controller-schematic" type="application/pdf">
+<object data="/arduinoPwmController/schematics/pwm-controller-schematic" type="application/pdf" width="100%"> 
+</object>
 </div>
 
 ------------------------------------------------------
@@ -80,7 +81,6 @@ void loop() {
 <p>2 Grounds<p>
 <p>Oscilloscope<p>
 <p>DC Voltometer<p>
-<p>Arduino Nano<p>
 
 ------------------------------------------------------
 
