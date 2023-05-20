@@ -16,6 +16,16 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
+<h1>Schematic Capture PDF<h1>
+
+<div align=center>
+<img height="200em" src="./schematics/pwm-controller-schematic.pdf">
+</div>
+
+------------------------------------------------------
+
+------------------------------------------------------
+
 <h1>Código Fonte<h1>
 
 ```javascript
