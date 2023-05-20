@@ -238,4 +238,4 @@ uma maquete de uma máquina, entre outros.<p>
 
 Thank you so much for reading, have a nice day! :D
 
-------------------------------------------------------
+______________________________________________________
