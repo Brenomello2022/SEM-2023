@@ -94,6 +94,34 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
+<h1>Schematic Capture Tinkercad<h1>
+
+<p>Esquematico do circuito de retificador de onda com regulador de tenção LM7805, feito no Tinkercad<p>
+
+<div align=center>
+<img height="200em" src="./img/tinkercad-lm7805">
+</div>
+
+------------------------------------------------------
+
+------------------------------------------------------
+
+
+
+------------------------------------------------------
+
+------------------------------------------------------
+
+
+
+------------------------------------------------------
+
+------------------------------------------------------
+
+
+
+------------------------------------------------------
+
 <h1>Funcionamento de um Retificador<h1>
 
 <p>O retificador de onda completa converte ambas as metades de cada ciclo de forma de onda em sinal DC pulsante usando quatro diodos de retificação<p>
