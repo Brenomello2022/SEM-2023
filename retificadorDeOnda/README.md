@@ -4,9 +4,9 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Schematic Capture<h1>
+<h1>Schematic Capture.<h1>
 
-<p>Esquematico do circuito de retificador de onda com ponte de diodo<p>
+Esquematico do circuito de retificador de onda com ponte de diodo.
 
 <div align=center>
 <img height="200em" src="./img/esquematico-proteus-ponte.png">
@@ -14,9 +14,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Schematic Capture<h1>
+------------------------------------------------------
 
-<p>Esquematico do circuito de retificador de onda com diodo manual<p>
+<h1>Schematic Capture.<h1>
+
+Esquematico do circuito de retificador de onda com diodo manual.
 
 <div align=center>
 <img height="200em" src="./img/esquematico-proteus.png">
@@ -24,9 +26,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Pcb Layout<h1>
+------------------------------------------------------
 
-<p>Pcb layout do circuito de retificador de onda com ponte de diodo<p>
+<h1>Pcb Layout.<h1>
+
+Pcb layout do circuito de retificador de onda com ponte de diodo.
 
 <div align=center>
 <img height="200em" src="./img/pcb-layout-ponte.png">
@@ -34,9 +38,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Pcb Layout<h1>
+------------------------------------------------------
 
-<p>Pcb layout do circuito de retificador de onda com diodo manual<p>
+<h1>Pcb Layout.<h1>
+
+Pcb layout do circuito de retificador de onda com diodo manual.
 
 <div align=center>
 <img height="200em" src="./img/pcb-layout.png">
@@ -44,9 +50,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>3d Visual<h1>
+------------------------------------------------------
 
-<p>3d Visual do circuito de retificador de onda com ponte de diodo, parte superior<p>
+<h1>3d Visual.<h1>
+
+3d Visual do circuito de retificador de onda com ponte de diodo, parte superior.
 
 <div align=center>
 <img height="200em" src="./img/3d-visual-front-ponte.png">
@@ -54,9 +62,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>3d Visual<h1>
+------------------------------------------------------
 
-<p>3d Visual do circuito de retificador de onda com ponte de diodo, parte inferior<p>
+<h1>3d Visual.<h1>
+
+3d Visual do circuito de retificador de onda com ponte de diodo, parte inferior.
 
 <div align=center>
 <img height="200em" src="./img/3d-visual-back-ponte.png">
@@ -64,9 +74,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>3d Visual<h1>
+------------------------------------------------------
 
-<p>3d Visual do circuito de retificador de onda com diodo manual, parte superior<p>
+<h1>3d Visual.<h1>
+
+3d Visual do circuito de retificador de onda com diodo manual, parte superior.
 
 <div align=center>
 <img height="200em" src="./img/3d-visual-front.png">
@@ -74,9 +86,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>3d Visual<h1>
+------------------------------------------------------
 
-<p>3d Visual do circuito de retificador de onda com diodo manual, parte inferior<p>
+<h1>3d Visual.<h1>
+
+3d Visual do circuito de retificador de onda com diodo manual, parte inferior.
 
 <div align=center>
 <img height="200em" src="./img/3d-visual-back.png">
@@ -84,9 +98,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Schematic Capture Tinkercad<h1>
+------------------------------------------------------
 
-<p>Esquematico do circuito de retificador de onda com diodo manual, feito no Tinkercad<p>
+<h1>Schematic Capture Tinkercad.<h1>
+
+Esquematico do circuito de retificador de onda com diodo manual, feito no Tinkercad.
 
 <div align=center>
 <img height="200em" src="./img/esquematico-tinkercad.png">
@@ -94,9 +110,11 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Schematic Capture Tinkercad<h1>
+------------------------------------------------------
 
-<p>Esquematico do circuito de retificador de onda com regulador de tenção LM7805, feito no Tinkercad<p>
+<h1>Schematic Capture Tinkercad.<h1>
+
+Esquematico do circuito de retificador de onda com regulador de tenção LM7805, feito no Tinkercad.
 
 <div align=center>
 <img height="200em" src="./img/tinkercad-lm7805.png">
@@ -106,9 +124,9 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Schematic Capture Tinkercad<h1>
+<h1>Schematic Capture Tinkercad.<h1>
 
-<p>Esquematico do circuito de retificador de onda com regulador de tenção LM7809, feito no Tinkercad<p>
+Esquematico do circuito de retificador de onda com regulador de tenção LM7809, feito no Tinkercad.
 
 <div align=center>
 <img height="200em" src="./img/tinkercad-lm7809.png">
@@ -118,9 +136,9 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Retificador Protoboard<h1>
+<h1>Retificador Protoboard.<h1>
 
-<p>Retificador feito manualmente na protoboard, com regulador de tensão LM7805, feito em sala<p>
+<p>Retificador feito manualmente na protoboard, com regulador de tensão LM7805, feito em sala.<p>
 
 <div align=center>
 <img height="200em" src="./img/retificador-lm7805.png">
@@ -130,9 +148,9 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Retificador Protoboard<h1>
+<h1>Retificador Protoboard.<h1>
 
-<p>Retificador feito manualmente na protoboard, com regulador de tensão LM7809, feito em sala<p>
+Retificador feito manualmente na protoboard, com regulador de tensão LM7809, feito em sala.
 
 <div align=center>
 <img height="200em" src="./img/retificador-lm7809.png">
@@ -140,21 +158,27 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
-<h1>Funcionamento de um Retificador<h1>
+------------------------------------------------------
 
-<p>O retificador de onda completa converte ambas as metades de cada ciclo de forma de onda em sinal DC pulsante usando quatro diodos de retificação<p>
+<h1>Funcionamento de um Retificador.<h1>
+
+O retificador de onda completa converte ambas as metades de cada ciclo de forma de onda em sinal DC pulsante usando quatro diodos de retificação.
+
+------------------------------------------------------
 
 ------------------------------------------------------
 
 Para este projeto foi utilizado dois programas bem uteis para montar circuitos,
-e modelagem em 3D, trata-se do Proteus e Tinkercad
+e modelagem em 3D, trata-se do Proteus e Tinkercad.
 
 ------------------------------------------------------
 
-<h1>Proteus<h1>
+------------------------------------------------------
 
-<p>Programa bastante utilizado para montar circuitos, onde temos a visão do Esquematico, do Pcb Layout
-e a Visão 3D<p>
+<h1>Proteus.<h1>
+
+Programa bastante utilizado para montar circuitos, onde temos a visão do Esquematico, do Pcb Layout
+e a Visão 3D.
 
 <div align=center>
 <img height="200em" src="./img/proteus.png">
@@ -162,15 +186,19 @@ e a Visão 3D<p>
 
 ------------------------------------------------------
 
-<h1>Tinkercad<h1>
+------------------------------------------------------
 
-<p>Programa bastante utilizado para montar estruturas em 3D, seja ela um circuito,
-uma maquete de uma máquina, entre outros<p>
+<h1>Tinkercad.<h1>
+
+Programa bastante utilizado para montar estruturas em 3D, seja ela um circuito,
+uma maquete de uma máquina, entre outros.
 
 
 <div align=center>
 <img height="200em" src="./img/tinkercad.png">
 </div>
+
+------------------------------------------------------
 
 ------------------------------------------------------
 
