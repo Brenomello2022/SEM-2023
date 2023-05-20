@@ -99,7 +99,7 @@ Veja a seguir, imagens do circuito.
 <p>Esquematico do circuito de retificador de onda com regulador de tenção LM7805, feito no Tinkercad<p>
 
 <div align=center>
-<img height="200em" src="./img/tinkercad-lm7805">
+<img height="200em" src="./img/tinkercad-lm7805.png">
 </div>
 
 ------------------------------------------------------
