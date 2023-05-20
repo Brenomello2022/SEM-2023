@@ -106,19 +106,37 @@ Veja a seguir, imagens do circuito.
 
 ------------------------------------------------------
 
+<h1>Schematic Capture Tinkercad<h1>
 
+<p>Esquematico do circuito de retificador de onda com regulador de tenção LM7809, feito no Tinkercad<p>
+
+<div align=center>
+<img height="200em" src="./img/tinkercad-lm7809.png">
+</div>
+
+------------------------------------------------------
+
+------------------------------------------------------
+
+<h1>Retificador Protoboard<h1>
+
+<p>Retificador feito manualmente na protoboard, com regulador de tensão LM7805, feito em sala<p>
+
+<div align=center>
+<img height="200em" src="./img/retificador-lm7805.png">
+</div>
 
 ------------------------------------------------------
 
 ------------------------------------------------------
 
+<h1>Retificador Protoboard<h1>
 
+<p>Retificador feito manualmente na protoboard, com regulador de tensão LM7809, feito em sala<p>
 
-------------------------------------------------------
-
-------------------------------------------------------
-
-
+<div align=center>
+<img height="200em" src="./img/retificador-lm7809.png">
+</div>
 
 ------------------------------------------------------
 
