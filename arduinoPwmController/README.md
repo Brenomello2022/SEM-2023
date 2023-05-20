@@ -6,10 +6,12 @@ Veja a seguir, imagens do circuito.
 
 <h1>Schematic Capture.<h1>
 
-<p>Esquematico do circuito de modulação de largura de pulsos, feito no proteus.<p>
+<p>Esquemático do circuito de modulação de largura de pulsos, feito no proteus.<p>
 
 <div align=center>
+
 <img height="200em" src="./img/pwm.png">
+
 </div>
 
 ------------------------------------------------------
@@ -21,7 +23,9 @@ Veja a seguir, imagens do circuito.
 <h1>Schematic Capture PDF.<h1>
 
 <div align=center>
+
 <img height="200em" src="./schematics/pwm-controller-schematic.png">
+
 </div>
 
 ------------------------------------------------------
@@ -66,7 +70,7 @@ void loop() {
 
 ------------------------------------------------------
 
-<p>Para este projeto foi utiilizado o programa proteus, bastante utilizado para montar circuitos, onde temos a visão do Esquematico, do Pcb Layout e a Visão 3D.<p>
+<p>Para este projeto foi utiilizado o programa Proteus 8 Professional, bastante utilizado para montar circuitos, onde temos a visão do Esquemático, do Pcb Layout e a Visão 3D.<p>
 
 ------------------------------------------------------
 
@@ -74,10 +78,12 @@ void loop() {
 
 ------------------------------------------------------
 
-<h1>Proteus.<h1>
+<h1>Proteus 8 Professional.<h1>
 
 <div align=center>
+
 <img height="200em" src="./img/proteus.png">
+
 </div>
 
 ------------------------------------------------------
@@ -86,7 +92,7 @@ void loop() {
 
 ------------------------------------------------------
 
-<h1>Componentes do Esquematico.<h1>
+<h1>Componentes do Esquemático.<h1>
 
 <p>Arduino Nano.<p>
 <p>Resistor.<p>
