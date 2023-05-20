@@ -6,13 +6,15 @@ Veja a seguir, imagens do circuito.
 
 <h1>Schematic Capture.<h1>
 
-Esquematico do circuito de modulação de largura de pulsos, feito no proteus.
+<p>Esquematico do circuito de modulação de largura de pulsos, feito no proteus.<p>
 
 <div align=center>
 <img height="200em" src="./img/pwm.png">
 </div>
 
 ------------------------------------------------------
+
+
 
 ------------------------------------------------------
 
@@ -23,6 +25,8 @@ Esquematico do circuito de modulação de largura de pulsos, feito no proteus.
 </div>
 
 ------------------------------------------------------
+
+
 
 ------------------------------------------------------
 
@@ -58,11 +62,15 @@ void loop() {
 ```
 ------------------------------------------------------
 
-------------------------------------------------------
 
-Para este projeto foi utiilizado o programa proteus, bastante utilizado para montar circuitos, onde temos a visão do Esquematico, do Pcb Layout e a Visão 3D.
 
 ------------------------------------------------------
+
+<p>Para este projeto foi utiilizado o programa proteus, bastante utilizado para montar circuitos, onde temos a visão do Esquematico, do Pcb Layout e a Visão 3D.<p>
+
+------------------------------------------------------
+
+
 
 ------------------------------------------------------
 
@@ -74,21 +82,25 @@ Para este projeto foi utiilizado o programa proteus, bastante utilizado para mon
 
 ------------------------------------------------------
 
+
+
 ------------------------------------------------------
 
 <h1>Componentes do Esquematico.<h1>
 
-Arduino Nano.
-Resistor.
-Motor.
-Cell.
-L293D.
-Button.
-2 Grounds.
-Oscilloscope.
-DC Voltometer.
+<p>Arduino Nano.<p>
+<p>Resistor.<p>
+<p>Motor.<p>
+<p>Cell.<p>
+<p>L293D.<p>
+<p>Button.<p>
+<p>2 Grounds.<p>
+<p>Oscilloscope.<p>
+<p>DC Voltometer.<p>
 
 ------------------------------------------------------
+
+
 
 ------------------------------------------------------
 
@@ -98,6 +110,8 @@ DC Voltometer.
 
 ------------------------------------------------------
 
+
+
 ------------------------------------------------------
 
 <h1>Funcionamento do Projeto.<h1>
@@ -105,6 +119,8 @@ DC Voltometer.
 <p>No momento em que for pressionado o botão, a velocidade do motor chega em 64. Se clicado mais uma vez, aumentará a velocidade para 127. Se for clicado mais duas vezes, sua velocidade chegará à 191 e 255, respectivamente, assim mantendo sua velocidade constante, ate que o botão seja novamente pressionado, reiniciando sua velocidade.<p>
 
 ------------------------------------------------------
+
+
 
 ------------------------------------------------------
 
