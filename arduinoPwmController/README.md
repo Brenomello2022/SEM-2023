@@ -1,6 +1,6 @@
 Nesse projeto, foi elaborado um circuito em um programa de simulação, um modulador por largura de pulso.
 
-PWM, em inglês "Pulse Width Modulation", ou em portugues MLP, que significa Modulação por Largura de Pulso, é uma tecnica que controla a quantidade média de energia, que for aplicada a um dispositivo eletronico.
+PWM, em inglês "Pulse Width Modulation", ou em portugues MLP, que significa "Modulação por Largura de Pulso", é uma tecnica que controla a quantidade média de energia, que for aplicada a um dispositivo eletronico.
 
 ------------------------------------------------------
 
