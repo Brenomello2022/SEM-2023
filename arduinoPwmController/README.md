@@ -1,6 +1,24 @@
 Nesse projeto, foi elaborado um circuito em um programa de simulação, um modulador por largura de pulso.
 
-Veja a seguir, imagens do circuito.
+PWM, em inglês "Pulse Width Modulation", ou em portugues MLP, que significa modulação por largura de pulso, é uma tecnica que controla a quantidade média de energia, que for aplicada a um dispositivo eletronico.
+
+------------------------------------------------------
+
+<h1>Componentes do Esquemático.<h1>
+
+<p>Arduino Nano.<p>
+<p>Resistor.<p>
+<p>Motor.<p>
+<p>Cell.<p>
+<p>L293D.<p>
+<p>Button.<p>
+<p>2 Grounds.<p>
+<p>Oscilloscope.<p>
+<p>DC Voltometer.<p>
+
+------------------------------------------------------
+
+
 
 ------------------------------------------------------
 
@@ -92,17 +110,19 @@ void loop() {
 
 ------------------------------------------------------
 
-<h1>Componentes do Esquemático.<h1>
+<h1>Instruções de Montagem do Circuito.<h1>
 
-<p>Arduino Nano.<p>
-<p>Resistor.<p>
-<p>Motor.<p>
-<p>Cell.<p>
-<p>L293D.<p>
-<p>Button.<p>
-<p>2 Grounds.<p>
-<p>Oscilloscope.<p>
-<p>DC Voltometer.<p>
+<p>Primeiro precisa conectar a porta 2 do Arduino Nano em uma das entradas do Botão, e a outra entrada conectar à célula de energia, também conectar as portas 9 e 10 do Arduino Nano, às portas 7 e 2 do L293D<p>
+
+<p>Segundo, logo abaixo do botão, conectar as entradas do resistor com a ligação do botão, e aterrar a outra entrada<p>
+
+<p>Terceiro, conectar uma entrada do Motor, e aterrar a outra entrada<p>
+
+<p>Quarto, conectar as portas 1, 8, 9, e 16 do L293D nas ligações do Botão e Cell, aterrar o gnd do L293D<p>
+
+<p>Quinto, conectar uma das entradas do DC Voltometer a porta 3 do L293D, e a outra na ligação do Ground do Resistor, e ligar as duas entradas do Motor às duas ligações do DC Voltometer<p>
+
+<p>Sexto, conectar a porta A do Oscilloscope à ligação do DC Voltometer<p>
 
 ------------------------------------------------------
 
