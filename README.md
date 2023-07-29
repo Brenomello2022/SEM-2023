@@ -1,3 +1,3 @@
-Repositório da disciplina de Sistemas Embarcados 2023
+Repositório da disciplina de Sistemas Embarcados 2023.
 
-Professor: Rafael Rodrigues Barbosa
+Professor: Rafael Rodrigues Barbosa.
